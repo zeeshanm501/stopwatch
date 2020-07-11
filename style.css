@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Finger+Paint&display=swap');
+
+
+
+
+body {
+    text-align: center;
+    background-image: url(./assorted-silver-colored-pocket-watch-lot-selective-focus-859895.jpg);
+    /* background-color: gray; */
+}
+
+p {
+    display: inline-block;
+}
+.mainwin p {
+    font-family: 'Black Ops One', cursive;
+    font-size: 3em;
+    width: 70px;
+    color: turquoise;
+    /* margin-left: 20px; */
+}
+.mainbtn button {
+    border: transparent;
+    color: lightcoral;
+    /* font-weight: 600;*/
+    padding: 0px 15px;
+    font-family: 'Finger Paint', cursive;
+    font-size: 1.3em;
+    background-color: #5E534D;
+    /* margin: 5px; */
+}
+
+.main {
+    background-color: #5E534D;
+    border-radius: 20px;
+    width: 300px;
+    height: 250px;
+    margin-top: 200px !important;
+    margin: 0 auto;
+    box-shadow: 0px 0px 20px black;
+}
+
